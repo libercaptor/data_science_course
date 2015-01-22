@@ -1,4 +1,4 @@
-data_science_course
+datasciencecoursera
 ===================
 
 This repository is intended to store the projects for Coursera Data Course
